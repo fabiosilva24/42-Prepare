@@ -2,6 +2,8 @@
 
 This is an open-source Program for 42 students to practice coding exercises without violating the Terms of Service.
 
+![42-Prepare Logo](42-prep.png)
+
 ## Installation
 
 
