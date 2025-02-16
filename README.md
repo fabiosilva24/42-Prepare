@@ -6,7 +6,7 @@ This is an open-source Program for 42 students to practice coding exercises with
 
 ### Work in Progress ⛏️
 
-![Miner Working](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+![Miner Working](giphy.gif)
 
 ## Installation
 
