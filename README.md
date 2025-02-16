@@ -4,12 +4,19 @@ This is an open-source Program for 42 students to practice coding exercises with
 
 ![42-Prepare Logo](42-prep.png)
 
+### Work in Progress ⛏️
+
+![Miner Working](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+
 ## Installation
 
+Clone the repository and make the script executable:
 
+bash
 git clone https://github.com/yourusername/42-prepare.git
 cd 42-prepare
 chmod +x prep
+
 
 
 ## Usage
