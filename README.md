@@ -13,7 +13,7 @@ This is an open-source Program for 42 students to practice coding exercises with
 Clone the repository and make the script executable:
 
 bash
-git clone https://github.com/yourusername/42-prepare.git
+git clone https://github.com/fabiosilva24/42-prepare.git
 cd 42-prepare
 chmod +x prep
 
